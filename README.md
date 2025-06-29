@@ -25,15 +25,6 @@ Este sistema permite o gerenciamento completo de uma biblioteca com os seguintes
 - 📐 Estrutura **MVC** (Model - View - Controller)
 
 ---
-
-## 📁 Estrutura do Projeto
-
-biblioteca/
-│
-├── main.py # Interface do usuário (terminal)
-├── db.py # Conexão com o MongoDB
-├── models.py # Enums e estrutura de dados
-└── controller.py # Funções de controle (CRUD e lógica)
 ## ▶️ Como Executar
 
 1. Instale o MongoDB e certifique-se de que está rodando localmente (`mongodb://localhost:27017/`)
